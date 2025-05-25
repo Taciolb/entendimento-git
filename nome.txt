@@ -2,3 +2,5 @@ Tacio
 tici
 ale
 thor
+blue
+twister
